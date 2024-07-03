@@ -1,3 +1,2 @@
 # Skills and Tools:
-
-MySQL, Excel
+SQL, Excel
